@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Night riddles</string>
+    <string name="loading">downloading</string>
+    <string name="facebook_app_id">750542452309856</string>
+</resources>
